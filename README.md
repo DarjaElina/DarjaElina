@@ -14,12 +14,12 @@ I'm a Full Stack Web Developer student at [Business College Helsinki](https://ww
 
 ### 🐣 Currently learning
 
-- PHP
+- PHP & Laravel
+- Basics of Internet of Things (IoT)
 
 ### 🌚 Planning to learn
 
 - Java
-- Laravel
 - Amazon AWS
 
 ⚡️ Fun fact: I love frogs! 🐸
