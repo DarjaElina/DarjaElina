@@ -16,6 +16,7 @@ I'm a Full Stack Web Developer student at [Business College Helsinki](https://ww
 
 - PHP & Laravel
 - Java
+- Next.js
 
 ### 🌚 Planning to learn
 
