@@ -1,6 +1,10 @@
 ## Hi there! 👋 I am Daria
 
-I'm a Full Stack Web Developer student at [Business College Helsinki](https://www.bc.fi/), passionate about backend technologies and software architecture.
+I’m a Bachelor’s student in ICT Engineering at  
+[JAMK University of Applied Sciences](https://www.jamk.fi/en),  
+with a strong interest in backend development, system design, and learning how software works under the hood.
+
+I enjoy learning by building projects, experimenting, and following my curiosity.
 
 ### 👩🏻‍💻 Tech Stack
 
@@ -14,15 +18,15 @@ I'm a Full Stack Web Developer student at [Business College Helsinki](https://ww
 
 ### 🐣 Currently learning
 
-- PHP & Laravel
-- Java
-- Next.js
+- Python
+- Machine Learning basics (scikit-learn)
 
-### 🌚 Planning to learn
+### 🌱 Interested in learning more about
 
-- Spring & Spring Boot
-- Angular
-- Apache Kafka
-- Amazon AWS
+- Software architecture
+- Backend systems
+- Distributed systems
+- Cloud platforms (AWS)
+- Anything that sparks curiosity 😄
 
 ⚡️ Fun fact: I love frogs! 🐸
