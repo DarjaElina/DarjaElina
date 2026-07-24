@@ -1,34 +1,24 @@
 ## Hi there! 👋 I'm Daria
 
-I’m a Bachelor’s student in ICT Engineering at [JAMK University of Applied Sciences](https://www.jamk.fi/en), interested in backend development, software architecture, and building reliable applications.
-
-I enjoy learning by building projects, exploring new technologies, and understanding how software works under the hood. Recently, I have been expanding my backend skills with Python, FastAPI, and C#/.NET while continuing to work with TypeScript and modern web technologies.
+I'm an ICT Engineering student at [JAMK University of Applied Sciences](https://www.jamk.fi/en) who enjoys building full-stack applications with a growing focus on backend development.
 
 ### 👩🏻‍💻 Tech Stack
 
-- TypeScript
 - React
-- Node.js
-- Python
-- FastAPI
-- C#/.NET
+- TypeScript
 - PostgreSQL
-- MongoDB
 - Docker
 - GitHub Actions
 
 ### 🐣 Currently learning
 
-- Backend development patterns
-- Software architecture
-- Database design and optimization
+- C#/.NET
+- Python
+- FastAPI
 
-### 🌱 Interested in learning more about
+### 🌱 Interested in
 
-- Distributed systems
-- Cloud platforms (AWS)
-- System design
-- Scalable backend systems
-- Anything that sparks curiosity 😄
+- Backend engineering
+- CI/CD and automation
 
 ⚡️ Fun fact: I love frogs! 🐸
